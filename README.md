@@ -21,3 +21,14 @@ A travel website developed using WordPress to showcase different destinations an
 Saif Travels is a WordPress-based travel website designed to showcase different places and destinations in an organized and visually appealing way.
 
 The website was built using WordPress and customized with Elementor and Post Grid to create and organize the website content and destination listings.
+## Screenshots
+
+![Homepage](homepage.png)
+
+![Homepage 2](homepage2.png)
+
+![About Me](aboutme.png)
+
+![Blog](blog.png)
+
+![Post](post.png)
